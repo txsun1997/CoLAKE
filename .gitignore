@@ -131,5 +131,4 @@ dmypy.json
 # mine
 .idea/
 *.DS_Store
-*.bin
 *.npy
