@@ -62,13 +62,13 @@ cd finetune/
 #### FewRel
 
 ```bash
-python run_re.py --debug
+python run_re.py --debug --gpu 0
 ```
 
 #### Open Entity
 
 ```bash
-python run_typing.py --debug
+python run_typing.py --debug --gpu 0
 ```
 
 #### LAMA and LAMA-UHN
