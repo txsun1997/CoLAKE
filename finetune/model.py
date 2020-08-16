@@ -1,7 +1,7 @@
 import torch
 import torch.nn as nn
 from torch.nn import CrossEntropyLoss, BCEWithLogitsLoss
-from transformers import BertPreTrainedModel, RobertaModel, RobertaConfig, ROBERTA_PRETRAINED_MODEL_ARCHIVE_MAP
+from transformers import BertPreTrainedModel, RobertaModel, RobertaConfig
 from transformers.modeling_bert import BertLayerNorm, gelu
 
 
