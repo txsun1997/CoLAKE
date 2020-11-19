@@ -1,6 +1,6 @@
 # CoLAKE
 
-Source code for paper "CoLAKE: Contextualized Language and Knowledge Embedding". If you have any problem about reproducing the experiments, please feel free to contact us or propose an issue.
+Source code for paper "[CoLAKE: Contextualized Language and Knowledge Embedding](https://arxiv.org/abs/2010.00309)". If you have any problem about reproducing the experiments, please feel free to contact us or propose an issue.
 
 ## Prepare your environment
 
