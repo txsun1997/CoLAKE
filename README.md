@@ -140,7 +140,7 @@ If you use the code and model, please cite this paper:
 @inproceedings{sun2020colake,
   author = {Tianxiang Sun and Yunfan Shao and Xipeng Qiu and Qipeng Guo and Yaru Hu and Xuanjing Huang and Zheng Zhang},
   title = {CoLAKE: Contextualized Language and Knowledge Embedding},
-  booktitle = {Proceedings of COLING 2020},
+  booktitle = {Proceedings of the 28th International Conference on Computational Linguistics, {COLING}},
   year = {2020}
 }
 ```
