@@ -91,7 +91,7 @@ wget -c https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.x
 Download the knowledge graph (Wikidata5M):
 
 ```bash
-wget -c https://www.dropbox.com/s/86gukevtdbhpcbk/wikidata5m_triplet.txt.gz
+wget -c https://www.dropbox.com/s/6sbhm0rwo4l73jq/wikidata5m_transductive.tar.gz
 gzip wikidata5m_triplet.txt.gz -d
 ```
 
