@@ -25,7 +25,7 @@ pip install sklearn
 To re-train CoLAKE, you may need mixed CPU-GPU training to handle the large number of entities. Our implementation is based on KVStore provided by [DGL](https://github.com/dmlc/dgl). In addition, to reproduce the experiments on link prediction, you may also need [DGL-KE](https://github.com/awslabs/dgl-ke).
 
 ```bash
-pip install dgl
+pip install dgl==0.4.3
 pip install dglke
 ```
 

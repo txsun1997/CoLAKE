@@ -179,7 +179,7 @@ def train():
                                        ip_config=args.ip_config,
                                        rel_emb=rel_emb,
                                        emb_name=args.emb_name,
-                                       cache_dir=PYTORCH_PRETRAINED_BERT_CACHE / 'dist_{}'.format(args.local_rank))
+                                       cache_dir=PYTORCH_PRETRAINED_BERT_CACHE + '/dist_{}'.format(args.local_rank))
         model.extend_type_embedding(token_type=3)
     # if args.local_rank == 0:
     #     for name, param in model.named_parameters():
