@@ -18,7 +18,7 @@ git clone https://github.com/fastnlp/fastNLP.git
 cd fastNLP/ & python setup.py install
 git clone https://github.com/fastnlp/fitlog.git
 cd fitlog/ & python setup.py install
-pip install transformers
+pip install transformers==2.11
 pip install sklearn
 ```
 
