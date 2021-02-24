@@ -98,7 +98,7 @@ tar -xzvf wikidata5m_transductive.tar.gz
 Download the Wikidata5M entity & relation aliases:
 
 ```bash
-wget -c https://www.dropbox.com/s/s1q38yzqzvuodl3/wikidata5m_alias.tar.gz
+wget -c https://www.dropbox.com/s/lnbhc8yuhit4wm5/wikidata5m_alias.tar.gz
 tar -xzvf wikidata5m_alias.tar.gz
 ```
 
