@@ -91,14 +91,14 @@ wget -c https://dumps.wikimedia.org/enwiki/latest/enwiki-latest-pages-articles.x
 Download the knowledge graph (Wikidata5M):
 
 ```bash
-wget -c https://www.dropbox.com/s/6sbhm0rwo4l73jq/wikidata5m_transductive.tar.gz
+wget -c https://www.dropbox.com/s/6sbhm0rwo4l73jq/wikidata5m_transductive.tar.gz?dl=1
 tar -xzvf wikidata5m_transductive.tar.gz
 ```
 
 Download the Wikidata5M entity & relation aliases:
 
 ```bash
-wget -c https://www.dropbox.com/s/lnbhc8yuhit4wm5/wikidata5m_alias.tar.gz
+wget -c https://www.dropbox.com/s/lnbhc8yuhit4wm5/wikidata5m_alias.tar.gz?dl=1
 tar -xzvf wikidata5m_alias.tar.gz
 ```
 
