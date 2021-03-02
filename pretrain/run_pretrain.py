@@ -27,7 +27,7 @@ def parse_args():
     parser.add_argument('--data_dir', type=str,
                         default='../pretrain_data/data',
                         help="data directory path")
-    parser.add_argument('--test_data', type=str, default='../ernie_data/fewrel/test.json',
+    parser.add_argument('--test_data', type=str, default=None,
                         help="fewrel test data directory path")
     parser.add_argument('--save_dir', type=str, default='../ckpts/',
                         help="model directory path")
